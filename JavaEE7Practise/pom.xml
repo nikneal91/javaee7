@@ -6,4 +6,7 @@
   <packaging>pom</packaging>
   <name>javaee7-parent</name>
   <description>parent module of javaee-7 samples</description>
+  <modules>
+  	<module>hello-jee7</module>
+  </modules>
 </project>

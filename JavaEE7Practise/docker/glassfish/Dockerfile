@@ -1,0 +1,1 @@
+FROM shinyay/docker-glassfish5
