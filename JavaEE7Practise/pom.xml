@@ -8,5 +8,6 @@
   <description>parent module of javaee-7 samples</description>
   <modules>
   	<module>hello-jee7</module>
+  	<module>ee7-hibernate</module>
   </modules>
 </project>
